@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  7 14:52:44 2020
-
-@author: ycjia
-"""
-
 
 """
 Plain deep2BSDE solver with hard-coded Allen-Cahn equations
